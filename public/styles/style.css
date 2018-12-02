@@ -1,22 +1,33 @@
 html {
   font-size: 10px;
   font-family: 'Quicksand', sans-serif;
+    background-color: #e8f2fc;
 }
 
 h1 {
-  color: black;
+  color: #429ef4;
   font-size: 60px;
   text-align: center;
 }
 
 h3 {
-  color: grey;
+  color: black;
   font-size: 40px;
   text-align: center;
 }
 
+body {
+  color: #black;
+  background-color: #e8f2fc;
+  border-color:  #e8f2fc
+  }
+
+div {
+  background-color: #e8f2fc;
+  }
+
 p, li {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 2;
   letter-spacing: 1px;
 }
