@@ -11,6 +11,9 @@ myImage.onclick = function() {
     } else {
       myImage.setAttribute ('src','images/wanderlust-home.jpg');
     }
+    else {
+      myImage.setAttribute ('src','images/adventure.gif');
+    }
 }
 
 var priceUSA = document.querySelector ('h2')
